@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto+Mono&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+code, pre, .monospace {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Optional: Button and link styling to match your brand */
+a.btn-primary {
+  background-color: #0078ff;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 22px;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+a.btn-primary:hover {
+  background-color: #005fcc;
+  text-decoration: none;
+}
