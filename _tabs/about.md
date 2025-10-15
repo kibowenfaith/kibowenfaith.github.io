@@ -28,8 +28,7 @@ I’m passionate about **data analytics, artificial intelligence, and digital tr
 ### 📘 What I’m Learning  
 I’m currently deepening my knowledge in:
 - **Advanced Data Analytics**  
-- **AI Integration in Business Intelligence**  
-- **Data Engineering Concepts**  
+- **AI Integration in Business Intelligence**    
 - **Machine Learning Model Deployment**  
 - **Python for Automation and Data Science**  
 
