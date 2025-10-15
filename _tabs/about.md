@@ -37,14 +37,7 @@ I’m currently deepening my knowledge in:
 ### 🚀 My Long-Term Goal  
 My long-term goal is to become a **leading Data and AI Specialist** — developing smart, data-driven solutions that enhance business decisions, empower African enterprises, and inspire young women to thrive in tech.  
 
----
 
-## 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/faith-jeptoo)  
-- 🐙 [GitHub](https://github.com/faithjeptoo)  
-- ✉️ [Email](mailto:jeptoofaithkibowen@gmail.com)
-
----
 > *"My mission is to turn complex data into actionable insights that make a difference."*
 {: .prompt-tip }
 
